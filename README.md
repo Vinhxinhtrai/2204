@@ -1,7 +1,7 @@
-# 22042009
-# ChiuQuangVinh (tile)
+22042009
+ ChiuQuangVinh (tile)
 # fb: Quang Vinh (Hi)
-# heeeeeeeeeeee
+heeeeeeeeeeee
 
 
 
@@ -34,4 +34,4 @@
 
 
 
-# Tuyển ngyeu:)
+Tuyển ngyeu:)
